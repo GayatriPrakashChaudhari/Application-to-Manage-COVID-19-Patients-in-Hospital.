@@ -1,14 +1,14 @@
 # Application-to-Manage-COVID-19-Patients-in-Hospital.
 This project is created to manage the patients suffering from COVID-19.
 
-##Installation
-go to the htdocs folder of XAMPP and clone the project link their.
+##Installation 
+####go to the htdocs folder of XAMPP and clone the project link their.
 
-##Configuration
-Add the database.
+##Configuration 
+####Add the database.
 
-##How to use the project?
-Go to the http://localhost/covid-19/index.php page.
+##How to use the project? 
+####Go to the http://localhost/covid-19/index.php page.
 Then their is option for Home which is the main page of application.
 Also their is a Admin option where the actual management of application will take place.
 Go to the http://localhost/covid-19/admin.php page.
