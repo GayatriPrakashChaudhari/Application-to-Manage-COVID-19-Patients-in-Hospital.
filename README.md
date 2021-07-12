@@ -2,7 +2,7 @@
 This project is created to manage the patients suffering from COVID-19.
 
 ##Installation :
-####go to the htdocs folder of XAMPP and clone the project link their.
+go to the htdocs folder of XAMPP and clone the project link their.
 
 ##Configuration :
 Add the database.
